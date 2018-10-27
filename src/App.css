@@ -5,6 +5,7 @@
   display: flex;
   flex-direction: column;
   justify-content: stretch;
+  background-color: #898787;
 }
 
 .App-flex {
@@ -45,4 +46,53 @@
   color: #00d8ff;
   padding: .2em .3em;
   border-radius: .2em;
+}
+
+img.player {
+    width:300px;
+    display: inline-block;
+    padding-top:15px;
+}
+
+input {
+    width:400px;
+}
+
+ul {
+    list-style:none;
+}
+
+.example {
+    padding-top:20px;
+    display:inline-block;
+}
+
+.react-autosuggest__suggestions-list {
+    width:300px;
+    margin:auto;
+    padding:0px;
+}
+
+.playerSuggestion {
+    width:300px;
+    height:40px;
+    border-style:outset;
+}
+
+.playerSuggestionThumbnail {
+    height:90%;
+    float:left;
+}
+
+.playerSuggestionName {
+    font-size:26px;
+    font-weight:bold;
+}
+
+.playerSuggestionDescription {
+
+}
+
+body {
+    font-family: 'Calluna-Regular', serif;
 }

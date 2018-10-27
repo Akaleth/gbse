@@ -1,6 +1,8 @@
 import React, {Component} from 'react'
 import Autosuggest from 'react-autosuggest';
+import PlayerSuggestion from './PlayerSuggestion.js';
 import players from '../../data/player_data/players.json'
+import '../App.css'
 
 
 // Teach Autosuggest how to calculate suggestions for any given input value.
@@ -21,16 +23,16 @@ const getSuggestionValue = suggestion => suggestion.name;
 // Use your imagination to render suggestions.
 const renderSuggestion = (suggestion, {query, isHighlighted}) => (
     <div>
-        {suggestion.name}
+        <PlayerSuggestion playerName={suggestion.name}/>
     </div>
 );
 
-const onPlayerSelected = (event, { suggestion, suggestionValue, suggestionIndex, sectionIndex, method }) => {
-    console.log(suggestionValue + " selected");
+const getGuildName = (player) => {
+    return "butchers";
 }
 
 class Example extends React.Component {
-    constructor(onPlayerSelected) {
+    constructor() {
         super();
 
         // Autosuggest is a controlled component.
@@ -41,8 +43,15 @@ class Example extends React.Component {
         this.state = {
             value: '',
             suggestions: [],
+            selectedPlayer: null,
         };
     }
+
+    onPlayerSelected = (event, { suggestion, suggestionValue, suggestionIndex, sectionIndex, method }) => {
+        this.setState({
+            selectedPlayer: suggestion,
+        });
+    };
 
     onChange = (event, { newValue }) => {
         this.setState({
@@ -66,27 +75,50 @@ class Example extends React.Component {
     };
 
     render() {
-        const { value, suggestions } = this.state;
+        const { value, suggestions, selectedPlayer } = this.state;
 
         // Autosuggest will pass through all these props to the input.
         const inputProps = {
-            placeholder: 'Type a player name',
+            placeholder: 'Search for players, traits, plays, nationalities, etc.',
             value,
             onChange: this.onChange
         };
 
         // Finally, render it!
-        return (
-            <Autosuggest
-                suggestions={suggestions}
-                onSuggestionsFetchRequested={this.onSuggestionsFetchRequested}
-                onSuggestionsClearRequested={this.onSuggestionsClearRequested}
-                getSuggestionValue={getSuggestionValue}
-                renderSuggestion={renderSuggestion}
-                inputProps={inputProps}
-                onSuggestionSelected={onPlayerSelected}
-            />
-        );
+        if(selectedPlayer != null) {
+            return (
+                <div className={"example"}>
+                    <Autosuggest
+                        suggestions={suggestions}
+                        onSuggestionsFetchRequested={this.onSuggestionsFetchRequested}
+                        onSuggestionsClearRequested={this.onSuggestionsClearRequested}
+                        getSuggestionValue={getSuggestionValue}
+                        renderSuggestion={renderSuggestion}
+                        inputProps={inputProps}
+                        onSuggestionSelected={this.onPlayerSelected}
+                    />
+                    <div className={"card_container"}>
+                        <img src={"data/player_cards/" + getGuildName(selectedPlayer) + "/" + selectedPlayer.name.replace(/ /g,'').toLowerCase() + "_front.jpg"} className={"player"} />
+                        <img src={"data/player_cards/" + getGuildName(selectedPlayer) + "/" + selectedPlayer.name.replace(/ /g,'').toLowerCase() + "_back.jpg"} className={"player"} />
+                    </div>
+                </div>
+            );
+        } else {
+            return (
+                <div className={"example"}>
+                    <Autosuggest
+                        suggestions={suggestions}
+                        onSuggestionsFetchRequested={this.onSuggestionsFetchRequested}
+                        onSuggestionsClearRequested={this.onSuggestionsClearRequested}
+                        getSuggestionValue={getSuggestionValue}
+                        renderSuggestion={renderSuggestion}
+                        inputProps={inputProps}
+                        onSuggestionSelected={this.onPlayerSelected}
+                    />
+                </div>
+            );
+        }
+
     }
 }
 
