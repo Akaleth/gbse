@@ -1,0 +1,218 @@
+{
+  "guild": "Fisherman's Guild",
+  "players": [
+    {
+      "name": "Corsair",
+      "melee": 2,
+      "tags": [
+        "Captain",
+        "Fisherman's Guild",
+        "Drag",
+        "Rough Seas",
+        "Coup de Grâce",
+        "Sturdy",
+        "Tough Hide",
+        "Hook, Line, and Sinker",
+        "Indar",
+        "Defensive Midfielder"
+        "Human",
+        "Male"
+      ]
+    },
+    {
+      "name": "Shark",
+      "melee": 2,
+      "tags": [
+        "Captain",
+        "Fisherman's Guild",
+        "Quick Foot",
+        "Stagger",
+        "Tidal Surge",
+        "Light Footed",
+        "Caught in a Net",
+        "Eisnoran",
+        "Striker"
+        "Human",
+        "Male"
+      ]
+    },
+    {
+      "name": "Salt",
+      "melee": 1,
+      "tags": [
+        "Mascot",
+        "Fisherman's Guild",
+        "Where'd They Go?",
+        "Loved Creature",
+        "Valentian",
+        "Animal"
+      ]
+    },
+    {
+      "name": "Tentacles",
+      "melee": 2,
+      "tags": [
+        "Mascot",
+        "Fisherman's Guild",
+        "Blind",
+        "Close Control",
+        "Tag Along",
+        "Numasai",
+        "Animal"
+      ]
+    },
+    {
+      "name": "Angel",
+      "melee": 1,
+      "tags": [
+        "Squaddie",
+        "Fisherman's Guild",
+        "Nimble",
+        "Super Shot",
+        "Get Over Here",
+        "Salt",
+        "Wander",
+        "Light Footed",
+        "Figeon",
+        "Striker"
+        "Human",
+        "Female"
+      ]
+    },
+    {
+      "name": "Greyscales",
+      "melee": 2,
+      "tags": [
+        "Squaddie",
+        "Fisherman's Guild",
+        "Ball's Gone!",
+        "Decoy",
+        "Where'd They Go!",
+        "Unpredictable Movement",
+        "Figeon",
+        "Winger",
+        "Human",
+        "Male"
+      ]
+    },
+    {
+      "name": "Hag",
+      "melee": 2,
+      "tags": [
+        "Squaddie",
+        "Fisherman's Guild",
+        "Decoy",
+        "Fisher's Reel",
+        "Fear",
+        "Shadow Like",
+        "Talisman",
+        "Call of the Sea",
+        "Numasai",
+        "Central Midfielder",
+        "Human",
+        "Female"
+      ]
+    },
+    {
+      "name": "Jac",
+      "melee": 2,
+      "tags": [
+        "Squaddie",
+        "Fisherman's Guild",
+        "Goad",
+        "Battering Ram",
+        "Resolute",
+        "Trident Tested",
+        "Skaldic",
+        "Defensive Midfielder",
+        "Human",
+        "Male"
+      ]
+    },
+    {
+      "name": "Kraken",
+      "melee": 2,
+      "tags": [
+        "Squaddie",
+        "Fisherman's Guild",
+        "Drag",
+        "Gravity Well",
+        "Protective Instinct",
+        "Tough Hide",
+        "Skaldic",
+        "Defensive Midfielder",
+        "Human",
+        "Male"
+      ]
+    },
+    {
+      "name": "Sakana",
+      "melee": 2,
+      "tags": [
+        "Squaddie",
+        "Fisherman's Guild",
+        "Smoke Bomb",
+        "Weak Point",
+        "Anatomical Precision",
+        "Cover of Darkness",
+        "Poised",
+        "Numasai",
+        "Striker",
+        "Human",
+        "Male"
+      ]
+    },
+    {
+      "name": "Sakana",
+      "melee": 2,
+      "tags": [
+        "Squaddie",
+        "Fisherman's Guild",
+        "Veteran",
+        "Fancy Footwork",
+        "Raise the Black Flag",
+        "Anatomical Precision",
+        "Bag of Coffers",
+        "Numasai",
+        "Attacking Midfielder",
+        "Human",
+        "Male"
+      ]
+    },
+    {
+      "name": "Siren",
+      "melee": 2,
+      "tags": [
+        "Squaddie",
+        "Fisherman's Guild",
+        "Lure",
+        "Seduced",
+        "Beautiful",
+        "Charmed",
+        "Protected",
+        "Kraken",
+        "Unknown",
+        "Winger",
+        "Human",
+        "Female"
+      ]
+    },
+    {
+      "name": "Siren",
+      "melee": 1,
+      "tags": [
+        "Squaddie",
+        "Fisherman's Guild",
+        "Veteran",
+        "Dread Gaze",
+        "Fair Wind",
+        "Escaping Fate",
+        "Shadow Like",
+        "Unknown",
+        "Attacking Midfielder",
+        "Human",
+        "Female"
+      ]
+    }
+  ]
+}
