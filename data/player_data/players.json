@@ -1,0 +1,152 @@
+{
+    "players": [
+        {
+            "name": "Ox",
+            "tags": [
+                "Captain",
+                "Butcher's Guild",
+                "They Ain't Tough!",
+                "Butchery",
+                "The Owner"
+            ]
+        },
+        {
+            "name": "Fillet",
+            "tags": [
+                "Captain",
+                "Butcher's Guild",
+                "Pain Circle",
+                "Blood Rain",
+                "Quick Foot",
+                "Haemophilia",
+                "Smell Blood",
+                "Exsanguinate"
+            ]
+        },
+        {
+            "name": "Princess",
+            "tags": [
+                "Mascot",
+                "Butcher's Guild",
+                "Rabid Animal",
+                "Loved Creature",
+                "Vicious"
+            ]
+        },
+        {
+            "name": "Truffles",
+            "tags": [
+                "Mascot",
+                "Butcher's Guild",
+                "Sturdy",
+                "Tough Hide",
+                "Vindictive"
+            ]
+        },
+        {
+            "name": "Boar",
+            "tags": [
+                "Squaddie",
+                "Butcher's Guild",
+                "Concussion",
+                "Furious",
+                "Berserk",
+                "Life Drinker"
+            ]
+        },
+        {
+            "name": "Boiler",
+            "tags": [
+                "Squaddie",
+                "Butcher's Guild",
+                "Axe Throw",
+                "Marked Target",
+                "Anatomical Precision",
+                "Assist",
+                "Princess",
+                "Crucial Artery"
+            ]
+        },
+        {
+            "name": "Brisket",
+            "tags": [
+                "Squaddie",
+                "Butcher's Guild",
+                "Super Shot",
+                "Dirty Knives",
+                "Above and Beyond",
+                "Charmed [Male]",
+                "Unpredictable Movement"
+            ]
+        },
+        {
+            "name": "Meathook",
+            "tags": [
+                "Squaddie",
+                "Butcher's Guild",
+                "Scything Blow",
+                "Tooled Up",
+                "Hooked",
+                "Sanguine Pool"
+            ]
+        },
+        {
+            "name": "Shank",
+            "tags": [
+                "Squaddie",
+                "Butcher's Guild",
+                "Thousand Cuts",
+                "Where'd They Go?",
+                "Damaged Target"
+            ]
+        },
+        {
+            "name": "Tenderiser",
+            "tags": [
+                "Squaddie",
+                "Butcher's Guild",
+                "Ground Pound",
+                "Rush Keeper",
+                "Goal Defence"
+            ]
+        },
+        {
+            "name": "Veteran Brisket",
+            "tags": [
+                "Squaddie",
+                "Butcher's Guild",
+                "Veteran",
+                "Ball's Gone!",
+                "Quick Time",
+                "Field Medic",
+                "Support From the Wing",
+                "Unpredictable Movement"
+            ]
+        },
+        {
+            "name": "Veteran Gutter",
+            "tags": [
+                "Squaddie",
+                "Butcher's Guild",
+                "Veteran",
+                "Route One",
+                "Anatomical Precision",
+                "Fan Favorite",
+                "Sweeping Charge"
+            ]
+        },
+        {
+            "name": "Veteran Ox",
+            "tags": [
+                "Squaddie",
+                "Butcher's Guild",
+                "Veteran",
+                "Whirling Chains",
+                "Rowdy",
+                "The Old Ways",
+                "The Owner",
+                "Lash Out"
+            ]
+        }
+    ]
+}
