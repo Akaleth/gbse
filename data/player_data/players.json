@@ -2,16 +2,22 @@
     "players": [
         {
             "name": "Ox",
+            "guildId": "butchers",
             "tags": [
                 "Captain",
                 "Butcher's Guild",
                 "They Ain't Tough!",
                 "Butchery",
-                "The Owner"
+                "The Owner",
+                "Skaldic",
+                "Attacking Midfielder",
+                "Human",
+                "Male"
             ]
         },
         {
             "name": "Fillet",
+            "guildId": "butchers",
             "tags": [
                 "Captain",
                 "Butcher's Guild",
@@ -20,42 +26,58 @@
                 "Quick Foot",
                 "Haemophilia",
                 "Smell Blood",
-                "Exsanguinate"
+                "Exsanguinate",
+                "Valentian",
+                "Striker",
+                "Human",
+                "Female"
             ]
         },
         {
             "name": "Princess",
+            "guildId": "butchers",
             "tags": [
                 "Mascot",
                 "Butcher's Guild",
                 "Rabid Animal",
                 "Loved Creature",
-                "Vicious"
+                "Vicious",
+                "Raed",
+                "Animal"
             ]
         },
         {
             "name": "Truffles",
+            "guildId": "butchers",
             "tags": [
                 "Mascot",
                 "Butcher's Guild",
                 "Sturdy",
                 "Tough Hide",
-                "Vindictive"
+                "Vindictive",
+                "Castellyian",
+                "Animal"
             ]
         },
         {
             "name": "Boar",
+            "guildId": "butchers",
             "tags": [
                 "Squaddie",
                 "Butcher's Guild",
                 "Concussion",
                 "Furious",
                 "Berserk",
-                "Life Drinker"
+                "Life Drinker",
+                "Skaldic",
+                "Attacking Midfielder",
+                "Human",
+                "Male"
             ]
         },
         {
             "name": "Boiler",
+            "guildId": "butchers",
             "tags": [
                 "Squaddie",
                 "Butcher's Guild",
@@ -64,11 +86,16 @@
                 "Anatomical Precision",
                 "Assist",
                 "Princess",
-                "Crucial Artery"
+                "Crucial Artery",
+                "Figeon",
+                "Winger",
+                "Human",
+                "Male"
             ]
         },
         {
             "name": "Brisket",
+            "guildId": "butchers",
             "tags": [
                 "Squaddie",
                 "Butcher's Guild",
@@ -76,42 +103,62 @@
                 "Dirty Knives",
                 "Above and Beyond",
                 "Charmed [Male]",
-                "Unpredictable Movement"
+                "Unpredictable Movement",
+                "Valentian",
+                "Striker",
+                "Human",
+                "Female"
             ]
         },
         {
             "name": "Meathook",
+            "guildId": "butchers",
             "tags": [
                 "Squaddie",
                 "Butcher's Guild",
                 "Scything Blow",
                 "Tooled Up",
                 "Hooked",
-                "Sanguine Pool"
+                "Sanguine Pool",
+                "Erskirii",
+                "Attacking Midfielder",
+                "Human",
+                "Female"
             ]
         },
         {
             "name": "Shank",
+            "guildId": "butchers",
             "tags": [
                 "Squaddie",
                 "Butcher's Guild",
                 "Thousand Cuts",
                 "Where'd They Go?",
-                "Damaged Target"
+                "Damaged Target",
+                "Erskirii",
+                "Winger",
+                "Human",
+                "Male"
             ]
         },
         {
             "name": "Tenderiser",
+            "guildId": "butchers",
             "tags": [
                 "Squaddie",
                 "Butcher's Guild",
                 "Ground Pound",
                 "Rush Keeper",
-                "Goal Defence"
+                "Goal Defence",
+                "Castellyian",
+                "Goalkeeper",
+                "Human",
+                "Male"
             ]
         },
         {
             "name": "Veteran Brisket",
+            "guildId": "butchers",
             "tags": [
                 "Squaddie",
                 "Butcher's Guild",
@@ -120,11 +167,16 @@
                 "Quick Time",
                 "Field Medic",
                 "Support From the Wing",
-                "Unpredictable Movement"
+                "Unpredictable Movement",
+                "Valentian",
+                "Winger",
+                "Human",
+                "Female"
             ]
         },
         {
             "name": "Veteran Gutter",
+            "guildId": "butchers",
             "tags": [
                 "Squaddie",
                 "Butcher's Guild",
@@ -132,11 +184,16 @@
                 "Route One",
                 "Anatomical Precision",
                 "Fan Favorite",
-                "Sweeping Charge"
+                "Sweeping Charge",
+                "Erskirii",
+                "Central Midfielder",
+                "Human",
+                "Female"
             ]
         },
         {
             "name": "Veteran Ox",
+            "guildId": "butchers",
             "tags": [
                 "Squaddie",
                 "Butcher's Guild",
@@ -145,7 +202,11 @@
                 "Rowdy",
                 "The Old Ways",
                 "The Owner",
-                "Lash Out"
+                "Lash Out",
+                "Skaldic",
+                "Attacking Midfielder",
+                "Human",
+                "Male"
             ]
         }
     ]

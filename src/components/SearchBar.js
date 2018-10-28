@@ -23,7 +23,7 @@ const getSuggestionValue = suggestion => suggestion.name;
 // Use your imagination to render suggestions.
 const renderSuggestion = (suggestion, {query, isHighlighted}) => (
     <div>
-        <PlayerSuggestion playerName={suggestion.name} playerDescription={suggestion.tags[0] + ", " + suggestion.tags[1]}/>
+        <PlayerSuggestion guild={suggestion.guildId} playerName={suggestion.name} playerDescription={suggestion.tags[0] + ", " + suggestion.tags[1]} highlight={isHighlighted}/>
     </div>
 );
 

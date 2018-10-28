@@ -80,19 +80,28 @@ ul {
     text-align:left;
 }
 
+.playerSuggestion_butchers {
+    background-color: #CA6567;
+    border-color: #CA6567;
+}
+
+.playerSuggestionHighlighted {
+    border-color: #FFFFFF;
+}
+
 .playerSuggestionThumbnail {
-    height:35px;
+    height:34px;
     margin-right: 5px;
     float:left;
     position:relative;
-    top:-2px;
+    top:0px;
 }
 
 .playerSuggestionName {
     font-size:26px;
     font-weight:bold;
     position:relative;
-    top:-8px;
+    top:-6px;
     margin-bottom:2px;
     height:26px;
 }
