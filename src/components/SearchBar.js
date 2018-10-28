@@ -23,7 +23,7 @@ const getSuggestionValue = suggestion => suggestion.name;
 // Use your imagination to render suggestions.
 const renderSuggestion = (suggestion, {query, isHighlighted}) => (
     <div>
-        <PlayerSuggestion playerName={suggestion.name}/>
+        <PlayerSuggestion playerName={suggestion.name} playerDescription={suggestion.tags[0] + ", " + suggestion.tags[1]}/>
     </div>
 );
 
@@ -98,7 +98,7 @@ class Example extends React.Component {
                         onSuggestionSelected={this.onPlayerSelected}
                     />
                     <div className={"card_container"}>
-                        <img src={"data/player_cards/" + getGuildName(selectedPlayer) + "/" + selectedPlayer.name.replace(/ /g,'').toLowerCase() + "_front.jpg"} className={"player"} />
+                        <img src={"data/player_cards/" + getGuildName(selectedPlayer) + "/" + selectedPlayer.name.replace(/ /g,'').toLowerCase() + "_front.jpg"} className={"player_left"} />
                         <img src={"data/player_cards/" + getGuildName(selectedPlayer) + "/" + selectedPlayer.name.replace(/ /g,'').toLowerCase() + "_back.jpg"} className={"player"} />
                     </div>
                 </div>

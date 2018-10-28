@@ -8,7 +8,12 @@ class PlayerSuggestion extends React.Component {
         return (
             <div className={"playerSuggestion"} style={{backgroundColor: "#CA6567", borderColor: "#CA6567"}}>
                 <img className={"playerSuggestionThumbnail"} src={"../../data/thumbnails/ox.png"} />
-                <p className={"playerSuggestionName"}>{this.props.playerName}</p>
+                <p className={"playerSuggestionName"}>
+                    {this.props.playerName}
+                </p>
+                <p className={"playerSuggestionDescription"}>
+                    {this.props.playerDescription}
+                </p>
             </div>
         )
     }
