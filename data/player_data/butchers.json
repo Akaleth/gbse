@@ -1,4 +1,6 @@
 {
+    "guild": "Butcher's Guild",
+    "guildId": "butchers",
     "players": [
         {
             "name": "Ox",

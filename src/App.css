@@ -85,6 +85,11 @@ ul {
     border-color: #CA6567;
 }
 
+.playerSuggestion_fishermen {
+    background-color: #79AFB8;
+    border-color: #79AFB8;
+}
+
 .playerSuggestionHighlighted {
     border-color: #FFFFFF;
 }

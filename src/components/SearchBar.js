@@ -1,19 +1,9 @@
 import React, {Component} from 'react'
-import Autosuggest from 'react-autosuggest';
-import PlayerSuggestion from './PlayerSuggestion.js';
-import players from '../../data/player_data/players.json'
+import Autosuggest from 'react-autosuggest'
+import PlayerSuggestion from './PlayerSuggestion.js'
+import {queryPlayerData} from '../json/PlayerData.js'
 import '../App.css'
 
-
-// Teach Autosuggest how to calculate suggestions for any given input value.
-const getSuggestions = value => {
-    const inputValue = value.trim().toLowerCase();
-    const inputLength = inputValue.length;
-
-    return inputLength === 0 ? [] : players.players.filter(player =>
-        player.name.toLowerCase().includes(inputValue) || player.tags.filter(tag => tag.toLowerCase().includes(inputValue)).length > 0
-    );
-};
 
 // When suggestion is clicked, Autosuggest needs to populate the input
 // based on the clicked suggestion. Teach Autosuggest how to calculate the
@@ -63,7 +53,7 @@ class Example extends React.Component {
     // You already implemented this logic above, so just use it.
     onSuggestionsFetchRequested = ({ value }) => {
         this.setState({
-            suggestions: getSuggestions(value)
+            suggestions: queryPlayerData(value)
         });
     };
 
@@ -98,8 +88,8 @@ class Example extends React.Component {
                         onSuggestionSelected={this.onPlayerSelected}
                     />
                     <div className={"card_container"}>
-                        <img src={"data/player_cards/" + getGuildName(selectedPlayer) + "/" + selectedPlayer.name.replace(/ /g,'').toLowerCase() + "_front.jpg"} className={"player_left"} />
-                        <img src={"data/player_cards/" + getGuildName(selectedPlayer) + "/" + selectedPlayer.name.replace(/ /g,'').toLowerCase() + "_back.jpg"} className={"player"} />
+                        <img src={"data/player_cards/" + selectedPlayer.guildId + "/" + selectedPlayer.name.replace(/ /g,'').toLowerCase() + "_front.jpg"} className={"player_left"} />
+                        <img src={"data/player_cards/" + selectedPlayer.guildId + "/" + selectedPlayer.name.replace(/ /g,'').toLowerCase() + "_back.jpg"} className={"player"} />
                     </div>
                 </div>
             );
@@ -114,6 +104,7 @@ class Example extends React.Component {
                         renderSuggestion={renderSuggestion}
                         inputProps={inputProps}
                         onSuggestionSelected={this.onPlayerSelected}
+                        highlightFirstSuggestion={true}
                     />
                 </div>
             );

@@ -1,9 +1,11 @@
 {
   "guild": "Fisherman's Guild",
+  "guildId": "fishermen",
   "players": [
     {
       "name": "Corsair",
       "melee": 2,
+      "guildId": "fishermen",
       "tags": [
         "Captain",
         "Fisherman's Guild",
@@ -22,6 +24,7 @@
     {
       "name": "Shark",
       "melee": 2,
+      "guildId": "fishermen",
       "tags": [
         "Captain",
         "Fisherman's Guild",
@@ -39,6 +42,7 @@
     {
       "name": "Salt",
       "melee": 1,
+      "guildId": "fishermen",
       "tags": [
         "Mascot",
         "Fisherman's Guild",
@@ -51,6 +55,7 @@
     {
       "name": "Tentacles",
       "melee": 2,
+      "guildId": "fishermen",
       "tags": [
         "Mascot",
         "Fisherman's Guild",
@@ -64,6 +69,7 @@
     {
       "name": "Angel",
       "melee": 1,
+      "guildId": "fishermen",
       "tags": [
         "Squaddie",
         "Fisherman's Guild",
@@ -82,6 +88,7 @@
     {
       "name": "Greyscales",
       "melee": 2,
+      "guildId": "fishermen",
       "tags": [
         "Squaddie",
         "Fisherman's Guild",
@@ -98,6 +105,7 @@
     {
       "name": "Hag",
       "melee": 2,
+      "guildId": "fishermen",
       "tags": [
         "Squaddie",
         "Fisherman's Guild",
@@ -116,6 +124,7 @@
     {
       "name": "Jac",
       "melee": 2,
+      "guildId": "fishermen",
       "tags": [
         "Squaddie",
         "Fisherman's Guild",
@@ -132,6 +141,7 @@
     {
       "name": "Kraken",
       "melee": 2,
+      "guildId": "fishermen",
       "tags": [
         "Squaddie",
         "Fisherman's Guild",
@@ -148,6 +158,7 @@
     {
       "name": "Sakana",
       "melee": 2,
+      "guildId": "fishermen",
       "tags": [
         "Squaddie",
         "Fisherman's Guild",
@@ -163,12 +174,14 @@
       ]
     },
     {
-      "name": "Sakana",
+      "name": "Veteran Sakana",
       "melee": 2,
+      "guildId": "fishermen",
       "tags": [
         "Squaddie",
         "Fisherman's Guild",
         "Veteran",
+        "Sadkana",
         "Fancy Footwork",
         "Raise the Black Flag",
         "Anatomical Precision",
@@ -182,6 +195,7 @@
     {
       "name": "Siren",
       "melee": 2,
+      "guildId": "fishermen",
       "tags": [
         "Squaddie",
         "Fisherman's Guild",
@@ -198,8 +212,9 @@
       ]
     },
     {
-      "name": "Siren",
+      "name": "Veteran Siren",
       "melee": 1,
+      "guildId": "fishermen",
       "tags": [
         "Squaddie",
         "Fisherman's Guild",
