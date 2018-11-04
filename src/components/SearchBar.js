@@ -86,6 +86,7 @@ class Example extends React.Component {
                         renderSuggestion={renderSuggestion}
                         inputProps={inputProps}
                         onSuggestionSelected={this.onPlayerSelected}
+                        highlightFirstSuggestion={true}
                     />
                     <div className={"card_container"}>
                         <img src={"data/player_cards/" + selectedPlayer.guildId + "/" + selectedPlayer.name.replace(/ /g,'').toLowerCase() + "_front.jpg"} className={"player_left"} />
