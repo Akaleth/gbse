@@ -1,0 +1,237 @@
+{
+    "guild": "Mason's Guild",
+    "guildId": "masons",
+    "players": [
+        {
+            "name": "Honour",
+            "guildId": "masons",
+            "tags": [
+                "Captain",
+                "Mason's Guild",
+                "Quick Time",
+                "Superior Strategy",
+                "Assist",
+                "Marbles",
+                "Linked",
+                "Harmony",
+                "Poised",
+                "Topping Out!",
+                "Castellyian",
+                "Central Midfielder",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Hammer",
+            "guildId": "masons",
+            "tags": [
+                "Captain",
+                "Mason's Guild",
+                "Impetus",
+                "Iron Fist",
+                "Knockback",
+                "Stoic",
+                "Tough Hide",
+                "Hammer Time!",
+                "Raed",
+                "Attacking Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Marbles",
+            "guildId": "masons",
+            "tags": [
+                "Mascot",
+                "Mason's Guild",
+                "Goad",
+                "Go Ape!",
+                "Brick",
+                "Counter-Charge",
+                "Loved Creature",
+                "Indar",
+                "Animal"
+            ]
+        },
+        {
+            "name": "Wrecker",
+            "guildId": "masons",
+            "tags": [
+                "Mascot",
+                "Mason's Guild",
+                "Battering Ram",
+                "Follow Up",
+                "Figeon",
+                "Animal"
+            ]
+        },
+        {
+            "name": "Brick",
+            "guildId": "masons",
+            "tags": [
+                "Squaddie",
+                "Mason's Guild",
+                "Concussion",
+                "Counter-Charge",
+                "Marbles",
+                "Knockback",
+                "Tough Hide",
+                "Skaldic",
+                "Centre Back",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Chisel",
+            "guildId": "masons",
+            "tags": [
+                "Squaddie",
+                "Mason's Guild",
+                "Concussion",
+                "Iron Fist",
+                "Revelling",
+                "Intensity",
+                "Valentian",
+                "Attacking Midfielder",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Veteran Chisel",
+            "guildId": "masons",
+            "tags": [
+                "Squaddie",
+                "Mason's Guild",
+                "Veteran",
+                "Squad Tactics",
+                "Assist",
+                "Adaptive Strategy",
+                "Take One for the Team",
+                "Valentian",
+                "Defensive Midfielder",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Flint",
+            "guildId": "masons",
+            "tags": [
+                "Squaddie",
+                "Mason's Guild",
+                "Where'd They Go?",
+                "Charmed",
+                "Close Control",
+                "Raed",
+                "Striker",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Granite",
+            "guildId": "masons",
+            "tags": [
+                "Squaddie",
+                "Mason's Guild",
+                "Gut & String",
+                "Broken Earth",
+                "Between a Rock...",
+                "Close Ranks",
+                "Sturdy",
+                "Valentian",
+                "Defensive Midfielder",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Harmony",
+            "guildId": "masons",
+            "tags": [
+                "Squaddie",
+                "Mason's Guild",
+                "Acrobatics",
+                "Weak Point",
+                "Back to the Shadows",
+                "Family",
+                "Honour",
+                "Protected",
+                "Brick",
+                "Castellyian",
+                "Winger",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Veteran Harmony",
+            "guildId": "masons",
+            "tags": [
+                "Squaddie",
+                "Mason's Guild",
+                "Veteran",
+                "Marked Target",
+                "Animosity",
+                "Field Medic",
+                "Team Player",
+                "Castellyian",
+                "Attacking Midfielder",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Mallet",
+            "guildId": "masons",
+            "tags": [
+                "Squaddie",
+                "Mason's Guild",
+                "Singled Out",
+                "Smashed Shins",
+                "Extended Reach",
+                "Football Legend",
+                "Forceful Blow",
+                "Raed",
+                "Defensive Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Tower",
+            "guildId": "masons",
+            "tags": [
+                "Squaddie",
+                "Mason's Guild",
+                "Tooled Up",
+                "Floored",
+                "Knockback",
+                "Protect Those Close",
+                "Castellyian",
+                "Defensive Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Lucky",
+            "guildId": "masons",
+            "tags": [
+                "Squaddie",
+                "Mason's Guild",
+                "Sleight of Hand",
+                "Raise the Stakes",
+                "Stack the Deck",
+                "Valentian",
+                "Central Midfielder",
+                "Human",
+                "Male"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "guild": "Farmer's Guild",
+    "guildId": "farmers",
+    "players": [
+        {
+            "name": "Grange",
+            "guildId": "farmers",
+            "tags": [
+                "Captain",
+                "Farmer's Guild",
+                "Constitution",
+                "Tough Hide",
+                "Help 'Em Out",
+                "Close Ranks",
+                "For the Family",
+                "Planting Season",
+                "Huge Tracts of Land",
+                "Sturdy",
+                "Planter",
+                "Piert",
+                "Defensive Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Thresher",
+            "guildId": "farmers",
+            "tags": [
+                "Captain",
+                "Farmer's Guild",
+                "Scything March",
+                "They Ain't Tough!",
+                "Crow Scarer",
+                "Poised",
+                "Don't Fear The...",
+                "Against the Grain",
+                "Life Drinker",
+                "Reaper",
+                "Mald",
+                "Attacking Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Peck",
+            "guildId": "farmers",
+            "tags": [
+                "Mascot",
+                "Farmer's Guild",
+                "Cocksure",
+                "Fertiliser",
+                "Pain Response",
+                "When the Cock Crows...",
+                "Planter",
+                "Raed",
+                "Animal"
+            ]
+        },
+        {
+            "name": "Buckwheat",
+            "guildId": "farmers",
+            "tags": [
+                "Mascot",
+                "Farmer's Guild",
+                "Ass Kicking",
+                "Carrot & Stick",
+                "Stoic",
+                "Reaper",
+                "Piert",
+                "Animal"
+            ]
+        },
+        {
+            "name": "Bushel",
+            "guildId": "farmers",
+            "tags": [
+                "Squaddie",
+                "Farmer's Guild",
+                "Ball's Gone",
+                "I'm Open!",
+                "Cabbage Punt",
+                "Close Conrol",
+                "Reaper",
+                "Raed",
+                "Striker",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Fallow",
+            "guildId": "farmers",
+            "tags": [
+                "Squaddie",
+                "Farmer's Guild",
+                "Get Stuck In!",
+                "Rowdy",
+                "Between a Rock...",
+                "Making Hay",
+                "Protective Instinct",
+                "With Age Comes Wisdom",
+                "Reaper",
+                "Indar",
+                "Attacking Midfielder",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Harrow",
+            "guildId": "farmers",
+            "tags": [
+                "Squaddie",
+                "Farmer's Guild",
+                "Marked Target",
+                "Sow the Seeds",
+                "Charmed",
+                "Planting Season",
+                "Rapid Growth",
+                "Planter",
+                "Piert",
+                "Defensive Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Veteran Honour",
+            "guildId": "farmers",
+            "tags": [
+                "Squaddie",
+                "Farmer's Guild",
+                "Veteran",
+                "Cocksure",
+                "Faithful Protector",
+                "Fields of Wheat",
+                "Planting Season",
+                "Surpassing Strategy",
+                "Planter",
+                "Castellyian",
+                "Coach",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Jackstraw",
+            "guildId": "farmers",
+            "tags": [
+                "Squaddie",
+                "Farmer's Guild",
+                "At Your Post",
+                "Crop Dusting",
+                "If I Only Had a Brain",
+                "The Last Straw",
+                "Reanimate",
+                "Planter",
+                "Piert",
+                "Winger",
+                "Mechanica"
+            ]
+        },
+        {
+            "name": "Millstone",
+            "guildId": "farmers",
+            "tags": [
+                "Squaddie",
+                "Farmer's Guild",
+                "Get in the Goal!",
+                "Goal Defence",
+                "Battering Ram",
+                "Planting Season",
+                "Take One for the Team",
+                "Planter",
+                "Mald",
+                "Centre Back",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Ploughman",
+            "guildId": "farmers",
+            "tags": [
+                "Squaddie",
+                "Farmer's Guild",
+                "Broken Earth",
+                "Fertile Soil",
+                "Planting Season",
+                "True Path",
+                "Planter",
+                "Piert",
+                "Central Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Tater",
+            "guildId": "farmers",
+            "tags": [
+                "Squaddie",
+                "Farmer's Guild",
+                "Mow Down",
+                "Charmed",
+                "Fork Off!",
+                "Make It Rain",
+                "Sweeping Charge",
+                "Reaper",
+                "Piert",
+                "Attacking Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Windle",
+            "guildId": "farmers",
+            "tags": [
+                "Squaddie",
+                "Farmer's Guild",
+                "Snack Break",
+                "Berserk",
+                "Big Breakfast",
+                "Empathy",
+                "Reaper",
+                "Raed",
+                "Centre Back",
+                "Human",
+                "Male"
+            ]
+        }
+    ]
+}

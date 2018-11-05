@@ -17,6 +17,5 @@ export function queryPlayerData (value) {
             players = players.concat(playerData[i].players.filter(player => player.name.trim().toLowerCase().includes(inputValue) || player.tags.filter(tag => tag.toLowerCase().includes(inputValue)).length > 0));
         }
     }
-
     return players;
 }

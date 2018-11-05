@@ -1,0 +1,235 @@
+{
+    "guild": "Brewer's Guild",
+    "guildId": "brewers",
+    "players": [
+        {
+            "name": "Tapper",
+            "guildId": "brewers",
+            "tags": [
+                "Captain",
+                "Brewer's Guild",
+                "Commanding Aura",
+                "Stand Firm",
+                "Tough Hide",
+                "Old Jake's",
+                "Mald",
+                "Central Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Esters",
+            "guildId": "brewers",
+            "tags": [
+                "Captain",
+                "Brewer's Guild",
+                "Tooled Up",
+                "Quick Foot",
+                "Resilience",
+                "Aria",
+                "Soothing Voice",
+                "Eisnoran",
+                "Central Midfielder",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Quaff",
+            "guildId": "brewers",
+            "tags": [
+                "Mascot",
+                "Brewer's Guild",
+                "Second Wind",
+                "Pick Me Up",
+                "Loved Creature",
+                "Mald",
+                "Animal"
+            ]
+        },
+        {
+            "name": "Scum",
+            "guildId": "brewers",
+            "tags": [
+                "Mascot",
+                "Brewer's Guild",
+                "Feral",
+                "Shadow Like",
+                "Unpredictable Movement",
+                "Ethraynnian",
+                "Animal"
+            ]
+        },
+        {
+            "name": "Veteran Decimate",
+            "guildId": "brewers",
+            "tags": [
+                "Squaddie",
+                "Brewer's Guild",
+                "Veteran",
+                "Acrobatic",
+                "Stagger",
+                "Anatomical Precision",
+                "Tough Hide",
+                "Duellist's Lunge",
+                "Erskirii",
+                "Attacking Midfielder",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Friday",
+            "guildId": "brewers",
+            "tags": [
+                "Squaddie",
+                "Brewer's Guild",
+                "Dirty Knives",
+                "Defence Support",
+                "Spigot",
+                "Get Over Here",
+                "Scum",
+                "Shadow Like",
+                "I Shoot Better After a Beer...",
+                "Mald",
+                "Striker",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Hooper",
+            "guildId": "brewers",
+            "tags": [
+                "Squaddie",
+                "Brewer's Guild",
+                "Smashed Shins",
+                "Tough Skin",
+                "Tough Hide",
+                "Shove the Boot In",
+                "True Grit",
+                "Mald",
+                "Attacking Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Lucky",
+            "guildId": "brewers",
+            "tags": [
+                "Squaddie",
+                "Brewer's Guild",
+                "Sleight of Hand",
+                "Raise the Stakes",
+                "Stack the Deck",
+                "Valentian",
+                "Central Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Mash",
+            "guildId": "brewers",
+            "tags": [
+                "Squaddie",
+                "Brewer's Guild",
+                "Howzat!?",
+                "Resilience",
+                "Tough Hide",
+                "Batter Up",
+                "Eisnoran",
+                "Attacking Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Pintpot",
+            "guildId": "brewers",
+            "tags": [
+                "Squaddie",
+                "Brewer's Guild",
+                "Concussion",
+                "Smashing Face",
+                "Rowdy",
+                "Six Pack",
+                "Come On, Then!",
+                "Resilience",
+                "Mald",
+                "Central Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Spigot",
+            "guildId": "brewers",
+            "tags": [
+                "Squaddie",
+                "Brewer's Guild",
+                "Ball's Gone!",
+                "Floored",
+                "Tough Hide",
+                "Time's Called",
+                "Raed",
+                "Defensive Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Veteran Spigot",
+            "guildId": "brewers",
+            "tags": [
+                "Squaddie",
+                "Brewer's Guild",
+                "Veteran",
+                "Goad",
+                "Ball's Gone!",
+                "Close Control",
+                "Football Legend",
+                "Back to His Best",
+                "Raed",
+                "Striker",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Stave",
+            "guildId": "brewers",
+            "tags": [
+                "Squaddie",
+                "Brewer's Guild",
+                "Lob Barrel",
+                "Battering Ram",
+                "Tough Hide",
+                "Explosive Brew",
+                "Mald",
+                "Centre Back",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Stoker",
+            "guildId": "brewers",
+            "tags": [
+                "Squaddie",
+                "Brewer's Guild",
+                "Molotov",
+                "Flame Jet",
+                "Burning Passion",
+                "Magical Brew",
+                "Human Ball of Fire",
+                "Eisnoran",
+                "Defensive Midfielder",
+                "Human",
+                "Male"
+            ]
+        }
+    ]
+}

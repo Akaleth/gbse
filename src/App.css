@@ -90,6 +90,51 @@ ul {
     border-color: #79AFB8;
 }
 
+.playerSuggestion_masons {
+    background-color: #748DB1;
+    border-color: #748DB1
+}
+
+.playerSuggestion_alchemists {
+    background-color: #748E46;
+    border-color: #748E46;
+}
+
+.playerSuggestion_brewers {
+    background-color: #D9C879;
+    border-color: #D9C879;
+}
+
+.playerSuggestion_blacksmiths {
+    background-color: #9BA4A9;
+    border-color: #9BA4A9;
+}
+
+.playerSuggestion_union {
+    background-color: #6C4D76;
+    border-color: #6C4D76;
+}
+
+.playerSuggestion_morticians {
+    background-color: #65656C;
+    border-color: #65656C;
+}
+
+.playerSuggestion_hunters {
+    background-color: #42573F;
+    border-color: #42573F;
+}
+
+.playerSuggestion_engineers {
+    background-color: #7F4B4A;
+    border-color: #7F4B4A;
+}
+
+.playerSuggestion_farmers {
+    background-color: #EABD8C;
+    border-color: #EABD8C;
+}
+
 .playerSuggestionHighlighted {
     border-color: #FFFFFF;
 }
