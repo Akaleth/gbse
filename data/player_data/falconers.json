@@ -1,0 +1,105 @@
+{
+    "guild": "Falconer's Guild",
+    "guildId": "falconers",
+    "players": [
+        {
+            "name": "Devana",
+            "guildId": "falconers",
+            "tags": [
+                "Captain",
+                "Falconer's Guild",
+                "Air Mail",
+                "Deadly Wings",
+                "Hack Back",
+                "Frelsi",
+                "Assist",
+                "Death from Above",
+                "Daughter of Falcons",
+                "Harrier",
+                "Figeon",
+                "Central Midfielder",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Frelsi",
+            "guildId": "falconers",
+            "tags": [
+                "Mascot",
+                "Falconer's Guild",
+                "Snare",
+                "Flying",
+                "Loved Creature",
+                "Figeon",
+                "Animal"
+            ]
+        },
+        {
+            "name": "Ikaros",
+            "guildId": "falconers",
+            "tags": [
+                "Squaddie",
+                "Falconer's Guild",
+                "Harrier",
+                "Taking Flight",
+                "Flying",
+                "Feathered Friends",
+                "Uplift",
+                "Figeon",
+                "Striker",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Mataagi",
+            "guildId": "falconers",
+            "tags": [
+                "Squaddie",
+                "Falconer's Guild",
+                "Harrier",
+                "Snap Fire",
+                "Crucial Artery",
+                "Far Strike",
+                "Light Footed",
+                "Numasai",
+                "Winger",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Minerva",
+            "guildId": "falconers",
+            "tags": [
+                "Squaddie",
+                "Falconer's Guild",
+                "Eye Spy",
+                "Harrier",
+                "Easy Pickings",
+                "Nocturnal Hunting",
+                "Sultarish",
+                "Winger",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Rundaas",
+            "guildId": "falconers",
+            "tags": [
+                "Squaddie",
+                "Falconer's Guild",
+                "Dirty Knives",
+                "Harrier",
+                "Shadow Like",
+                "Tough Hide",
+                "Indar",
+                "Attacking Midfielder",
+                "Human",
+                "Male"
+            ]
+        }
+    ]
+}
