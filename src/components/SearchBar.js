@@ -78,6 +78,10 @@ class Example extends React.Component {
         if(selectedPlayer != null) {
             return (
                 <div className={"example"}>
+                    <div className={"card_container"}>
+                        <img src={"data/player_cards/" + selectedPlayer.guildId + "/" + selectedPlayer.name.replace(/ /g,'').toLowerCase() + "_front.jpg"} className={"player_left"} />
+                        <img src={"data/player_cards/" + selectedPlayer.guildId + "/" + selectedPlayer.name.replace(/ /g,'').toLowerCase() + "_back.jpg"} className={"player"} />
+                    </div>
                     <Autosuggest
                         suggestions={suggestions}
                         onSuggestionsFetchRequested={this.onSuggestionsFetchRequested}
@@ -88,10 +92,6 @@ class Example extends React.Component {
                         onSuggestionSelected={this.onPlayerSelected}
                         highlightFirstSuggestion={true}
                     />
-                    <div className={"card_container"}>
-                        <img src={"data/player_cards/" + selectedPlayer.guildId + "/" + selectedPlayer.name.replace(/ /g,'').toLowerCase() + "_front.jpg"} className={"player_left"} />
-                        <img src={"data/player_cards/" + selectedPlayer.guildId + "/" + selectedPlayer.name.replace(/ /g,'').toLowerCase() + "_back.jpg"} className={"player"} />
-                    </div>
                 </div>
             );
         } else {
