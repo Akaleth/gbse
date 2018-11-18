@@ -13,3 +13,6 @@ A React-based web application used to search for players, traits, and character 
 ## Contributing
 
 If you would like to contribute to this project, please read **CONTRIBUTING.MD** for instructions.
+
+
+Guild Ball and its associated names, images, and logos are property of Steamforged Games Ltd. 
