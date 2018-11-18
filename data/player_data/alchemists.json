@@ -1,234 +1,215 @@
 {
-    "guild": "Blacksmith's Guild",
-    "guildId": "blacksmiths",
+    "guild": "Alchemist's Guild",
+    "guildId": "alchemists",
     "players": [
         {
-            "name": "Anvil",
-            "guildId": "blacksmiths",
+            "name": "Midas",
+            "guildId": "alchemists",
             "tags": [
-                "Master",
-                "Blacksmith's Guild",
-                "Singled Out",
-                "While the Iron is Hot",
-                "Sentinel",
-                "Tough Hide",
-                "Tested Mettle",
-                "Stoic",
-                "Sledge",
-                "Mald",
-                "Centre Back",
+                "Captain",
+                "Alchemist's Guild",
+                "Acrobatic",
+                "Lure of Gold",
+                "Midas Touch",
+                "Fulmination",
+                "Unpredictable Movement",
+                "Magnum Opus"
+                "Valentian",
+                "Striker",
                 "Human",
                 "Male"
             ]
         },
         {
-            "name": "Ferrite",
-            "guildId": "blacksmiths",
+            "name": "Smoke",
+            "guildId": "alchemists",
             "tags": [
-                "Master",
-                "Blacksmith's Guild",
-                "Acrobatic",
-                "Disarm",
-                "Weak Point",
-                "Get Over Here",
-                "Iron",
-                "Tong in Cheek",
-                "Raed",
-                "Striker",
+                "Captain",
+                "Alchemist's Guild",
+                "Chemical Breeze",
+                "Infuse",
+                "Smoke Bomb",
+                "Cloud Jumper",
+                "Unpredictable Movement",
+                "Watch The World Burn",
+                "Chemical Shower",
+                "Ethraynnian",
+                "Defensive Midfielder",
                 "Human",
                 "Female"
             ]
         },
         {
-            "name": "Furnace",
-            "guildId": "blacksmiths",
+            "name": "Flask",
+            "guildId": "alchemists",
             "tags": [
-                "Master",
-                "Blacksmith's Guild",
-                "One at a Time Lads!",
-                "Tooled Up",
-                "Searing Strike",
-                "Sentinel",
-                "Tempered Steel",
-                "Cinder",
-                "Piert",
+                "Mascot",
+                "Alchemist's Guild",
+                "Smoke Bomb",
+                "Beaker Keeper",
+                "Light Footed",
+                "Overheat",
+                "Indar",
+                "Mechanica"
+            ]
+        },
+        {
+            "name": "Naja",
+            "guildId": "alchemists",
+            "tags": [
+                "Mascot",
+                "Alchemist's Guild",
+                "Hypnosis",
+                "Test Subject",
+                "Venomous Strike",
+                "Unpredictable Movement",
+                "Indar",
+                "Animal"
+            ]
+        },
+        {
+            "name": "Calculus",
+            "guildId": "alchemists",
+            "tags": [
+                "Squaddie",
+                "Alchemist's Guild",
+                "Blind",
+                "Noxious Blast",
+                "Poisonous Fumes",
+                "Reactive Solution",
+                "Ethraynnian",
+                "Central Midfielder",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Veteran Calculus",
+            "guildId": "alchemists",
+            "tags": [
+                "Squaddie",
+                "Alchemist's Guild",
+                "Veteran",
+                "Sticky Bomb",
+                "Spillage",
+                "Extraction",
+                "Ethraynnian",
+                "Winger",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Compound",
+            "guildId": "alchemists",
+            "tags": [
+                "Squaddie",
+                "Alchemist's Guild",
+                "Horrific Odour",
+                "Noxious Death",
+                "Resilience",
+                "Rush Keeper",
+                "Figeon",
+                "Goalkeeper",
+                "Human",
+                "Male",
+                "Mechanica"
+            ]
+        },
+        {
+            "name": "Crucible",
+            "guildId": "alchemists",
+            "tags": [
+                "Squaddie",
+                "Alchemist's Guild",
+                "Acrobatic",
+                "Great Balls of Fire",
+                "Chemical Admixture",
+                "Covalence",
+                "Reactive Solution",
+                "Numasai"
+                "Attacking Midfielder",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Katalyst",
+            "guildId": "alchemists",
+            "tags": [
+                "Squaddie",
+                "Alchemist's Guild",
+                "External Combustion",
+                "Burning Effigy",
+                "Burning Strike",
+                "Pyromaniac",
+                "Skaldic",
                 "Central Midfielder",
                 "Human",
                 "Male"
             ]
         },
         {
-            "name": "Burnish",
-            "guildId": "blacksmiths",
+            "name": "Veteran Katalyst",
+            "guildId": "alchemists",
             "tags": [
-                "Master",
-                "Blacksmith's Guild",
-                "Flame Belch",
-                "Kill the Ball",
-                "Reduction",
-                "Reinforced Plating",
-                "Covering Fire",
-                "Cast",
-                "Numasai",
-                "Defensive Midfielder",
-                "Human",
-                "Male"
-            ]
-        },
-        {
-            "name": "Farris",
-            "guildId": "blacksmiths",
-            "tags": [
-                "Master",
-                "Blacksmith's Guild",
-                "Stagger",
-                "Quick Foot",
-                "Give It a Whack",
-                "Sentinel",
-                "Ride Off",
-                "Bolt",
-                "Sultarish",
-                "Attacking Midfielder",
-                "Human",
-                "Female"
-            ]
-        },
-        {
-            "name": "Hearth",
-            "guildId": "blacksmiths",
-            "tags": [
-                "Master",
-                "Blacksmith's Guild",
-                "Instruction",
-                "Use This!",
-                "Match Experience",
-                "Sturdy",
-                "Armoury",
-                "Alloy",
-                "Skald",
-                "Centre Back",
-                "Human",
-                "Female"
-            ]
-        },
-        {
-            "name": "Cinder",
-            "guildId": "blacksmiths",
-            "tags": [
-                "Apprentice",
-                "Blacksmith's Guild",
-                "Kill the Ball",
-                "Decoy",
-                "Kindled",
-                "Furnace",
-                "Far Strike",
-                "Unpredictable Movement",
-                "Piert",
-                "Winger",
-                "Human",
-                "Female"
-            ]
-        },
-        {
-            "name": "Veteran Cinder",
-            "guildId": "blacksmiths",
-            "tags": [
-                "Apprentice",
-                "Blacksmith's Guild",
+                "Squaddie",
+                "Alchemist's Guild",
                 "Veteran",
-                "Impale",
-                "Grim Vengeance",
-                "Searing Strike",
-                "Sweeping Charge",
-                "Piert",
-                "Attacking Midfielder",
-                "Human",
-                "Female"
-            ]
-        },
-        {
-            "name": "Iron",
-            "guildId": "blacksmiths",
-            "tags": [
-                "Apprentice",
-                "Blacksmith's Guild",
-                "Impetus",
-                "Battering Ram",
-                "Close Control",
-                "Tough Hide",
-                "Tryhard",
-                "Ferrite",
-                "Raed",
+                "Ground Pound",
+                "Burst of Fumes",
+                "Venomous Strike",
+                "Witness Me!",
+                "Skaldic",
                 "Attacking Midfielder",
                 "Human",
                 "Male"
             ]
         },
         {
-            "name": "Sledge",
-            "guildId": "blacksmiths",
+            "name": "Mercury",
+            "guildId": "alchemists",
             "tags": [
-                "Apprentice",
-                "Blacksmith's Guild",
-                "Long Bomb",
-                "Piledriver",
-                "Powerful Charge",
-                "Tutelage",
-                "Anvil",
-                "Eisnoran",
+                "Squaddie",
+                "Alchemist's Guild",
+                "Fire Blast",
+                "Fire Ball",
+                "Burning Spirit",
+                "Ethraynnian",
+                "Central Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Venin",
+            "guildId": "alchemists",
+            "tags": [
+                "Squaddie",
+                "Alchemist's Guild",
+                "Acid Rain",
+                "Debilitating Strike",
+                "Melting Body",
+                "Secretion",
+                "Venomous Strike",
+                "Coagulation",
+                "Valentian",
                 "Attacking Midfielder",
                 "Human",
                 "Male"
             ]
         },
         {
-            "name": "Alloy",
-            "guildId": "blacksmiths",
+            "name": "Vitriol",
+            "guildId": "alchemists",
             "tags": [
-                "Apprentice",
-                "Blacksmith's Guild",
-                "Acrobatic",
-                "Dirty Knives",
-                "Back to the Shadows",
-                "Arsenal",
-                "Anatomical Precision",
-                "Hearth",
-                "Skald",
+                "Squaddie",
+                "Alchemist's Guild",
+                "Clone",
+                "I've Been Burnt Before...",
+                "Face Your Fear",
+                "Skaldic",
                 "Striker",
-                "Human",
-                "Male"
-            ]
-        },
-        {
-            "name": "Bolt",
-            "guildId": "blacksmiths",
-            "tags": [
-                "Apprentice",
-                "Blacksmith's Guild",
-                "I'm Open!",
-                "Shoemerang",
-                "Stamina",
-                "Tutelage",
-                "Farris",
-                "Sultarish",
-                "Attacking Midfielder",
-                "Human",
-                "Male"
-            ]
-        },
-        {
-            "name": "Cast",
-            "guildId": "blacksmiths",
-            "tags": [
-                "Apprentice",
-                "Blacksmith's Guild",
-                "Shield Glare",
-                "Shield Throw",
-                "Burning Passion",
-                "Swift Strikes",
-                "Burnish",
-                "Sultarish",
-                "Winger",
                 "Human",
                 "Female"
             ]

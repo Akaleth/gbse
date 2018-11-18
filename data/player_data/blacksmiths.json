@@ -1,0 +1,237 @@
+{
+    "guild": "Blacksmith's Guild",
+    "guildId": "blacksmiths",
+    "players": [
+        {
+            "name": "Anvil",
+            "guildId": "blacksmiths",
+            "tags": [
+                "Master",
+                "Blacksmith's Guild",
+                "Singled Out",
+                "While the Iron is Hot",
+                "Sentinel",
+                "Tough Hide",
+                "Tested Mettle",
+                "Stoic",
+                "Sledge",
+                "Mald",
+                "Centre Back",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Ferrite",
+            "guildId": "blacksmiths",
+            "tags": [
+                "Master",
+                "Blacksmith's Guild",
+                "Acrobatic",
+                "Disarm",
+                "Weak Point",
+                "Get Over Here",
+                "Iron",
+                "Tong in Cheek",
+                "Raed",
+                "Striker",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Furnace",
+            "guildId": "blacksmiths",
+            "tags": [
+                "Master",
+                "Blacksmith's Guild",
+                "One at a Time Lads!",
+                "Tooled Up",
+                "Searing Strike",
+                "Sentinel",
+                "Tempered Steel",
+                "Cinder",
+                "Piert",
+                "Central Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Burnish",
+            "guildId": "blacksmiths",
+            "tags": [
+                "Master",
+                "Blacksmith's Guild",
+                "Flame Belch",
+                "Kill the Ball",
+                "Reduction",
+                "Reinforced Plating",
+                "Covering Fire",
+                "Cast",
+                "Numasai",
+                "Defensive Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Farris",
+            "guildId": "blacksmiths",
+            "tags": [
+                "Master",
+                "Blacksmith's Guild",
+                "Stagger",
+                "Quick Foot",
+                "Give It a Whack",
+                "Sentinel",
+                "Ride Off",
+                "Bolt",
+                "Sultarish",
+                "Attacking Midfielder",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Hearth",
+            "guildId": "blacksmiths",
+            "tags": [
+                "Master",
+                "Blacksmith's Guild",
+                "Instruction",
+                "Use This!",
+                "Match Experience",
+                "Sturdy",
+                "Armoury",
+                "Alloy",
+                "Skald",
+                "Centre Back",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Cinder",
+            "guildId": "blacksmiths",
+            "tags": [
+                "Apprentice",
+                "Blacksmith's Guild",
+                "Kill the Ball",
+                "Decoy",
+                "Kindled",
+                "Furnace",
+                "Far Strike",
+                "Unpredictable Movement",
+                "Piert",
+                "Winger",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Veteran Cinder",
+            "guildId": "blacksmiths",
+            "tags": [
+                "Apprentice",
+                "Blacksmith's Guild",
+                "Veteran",
+                "Impale",
+                "Grim Vengeance",
+                "Searing Strike",
+                "Sweeping Charge",
+                "Piert",
+                "Attacking Midfielder",
+                "Human",
+                "Female"
+            ]
+        },
+        {
+            "name": "Iron",
+            "guildId": "blacksmiths",
+            "tags": [
+                "Apprentice",
+                "Blacksmith's Guild",
+                "Impetus",
+                "Battering Ram",
+                "Close Control",
+                "Tough Hide",
+                "Tryhard",
+                "Ferrite",
+                "Raed",
+                "Attacking Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Sledge",
+            "guildId": "blacksmiths",
+            "tags": [
+                "Apprentice",
+                "Blacksmith's Guild",
+                "Long Bomb",
+                "Piledriver",
+                "Powerful Charge",
+                "Tutelage",
+                "Anvil",
+                "Eisnoran",
+                "Attacking Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Alloy",
+            "guildId": "blacksmiths",
+            "tags": [
+                "Apprentice",
+                "Blacksmith's Guild",
+                "Acrobatic",
+                "Dirty Knives",
+                "Back to the Shadows",
+                "Arsenal",
+                "Anatomical Precision",
+                "Hearth",
+                "Skald",
+                "Striker",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Bolt",
+            "guildId": "blacksmiths",
+            "tags": [
+                "Apprentice",
+                "Blacksmith's Guild",
+                "I'm Open!",
+                "Shoemerang",
+                "Stamina",
+                "Tutelage",
+                "Farris",
+                "Sultarish",
+                "Attacking Midfielder",
+                "Human",
+                "Male"
+            ]
+        },
+        {
+            "name": "Cast",
+            "guildId": "blacksmiths",
+            "tags": [
+                "Apprentice",
+                "Blacksmith's Guild",
+                "Shield Glare",
+                "Shield Throw",
+                "Burning Passion",
+                "Swift Strikes",
+                "Burnish",
+                "Sultarish",
+                "Winger",
+                "Human",
+                "Female"
+            ]
+        }
+    ]
+}
